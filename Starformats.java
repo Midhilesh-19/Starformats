@@ -1,4 +1,5 @@
-public class Practice {
+public class Starformats
+ {
     public static void main(String[] args) {
         //Output
 //           *
